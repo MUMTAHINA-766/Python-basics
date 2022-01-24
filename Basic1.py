@@ -29,3 +29,11 @@ Celcius = 100
 F = ((9*Celcius)/5) + 32
 print(F)
 
+#practice 3 another solution
+
+x = input('Enter temp in celcius: ')
+c = float(x)
+ 
+f = (9/5)*c+32
+print(f)
+
