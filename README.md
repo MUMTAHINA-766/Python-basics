@@ -4,9 +4,12 @@
 
 ![art](https://user-images.githubusercontent.com/64628178/152182542-66fb9772-3592-4cac-9e90-06eb4e96bb78.PNG)
 
-## random number game
+## armstrong number-basic 6
+
+![armstrong number](https://user-images.githubusercontent.com/64628178/152265355-efcc6c29-0e10-4536-abab-40e55062fbe2.PNG)
+
+## random number guess game
 
 ![guess age game](https://user-images.githubusercontent.com/64628178/152364955-d8b79706-79e9-44a9-bb38-daafcff2bae7.PNG)
-5062fbe2.PNG)
 
 
