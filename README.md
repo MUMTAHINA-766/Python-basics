@@ -6,7 +6,9 @@
 
 ## armstrong number-basic 6
 
-![armstrong number](https://user-images.githubusercontent.com/64628178/152265355-efcc6c29-0e10-4536-abab-40e5![guess age game](https://user-images.githubusercontent.com/64628178/152364955-d8b79706-79e9-44a9-bb38-daafcff2bae7.PNG)
+![armstrong number](https://user-images.githubusercontent.com/64628178/152265355-efcc6c29-0e10-4536-abab-40e5
+
+![guess age game](https://user-images.githubusercontent.com/64628178/152364955-d8b79706-79e9-44a9-bb38-daafcff2bae7.PNG)
 5062fbe2.PNG)
 
 ![Uploading guess age game.PNG…]()
